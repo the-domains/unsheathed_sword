@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[unsheathed_sword]]></title>
         <description><![CDATA[unsheathed_sword]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/unsheathed_sword/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 03:34:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 03:34:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/unsheathed_sword/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Power of Habit]]></title>
+            <description><![CDATA[<article><h1>The Power of Habit</h1><p>New York Times reporter Charles Duhigg explores the scientific research about habitual behaviors and what it reveals about how to change them. This article was adapted from Duhigg's New York Times bestseller, The Power of Habit: Why We Do What We Do in Life and Business (Random House, 2012).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72ce2ac1180b843094993d4606c27132cd9f840e.jpg"></article>]]></description>
+            <link>https://experiencelife.com/article/the-power-of-habit/</link>
+            <guid isPermaLink="false">b8ed035f-14c1-444e-9101-ee76fc6b0974</guid>
+            <pubDate>Mon, 14 Mar 2016 03:34:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Float like a Butterfly and Sting like a Bee!]]></title>
             <description><![CDATA[<article><h1>Float like a Butterfly and Sting like a Bee!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bad12ef41f68a36081c7c74f8a56a11461c2f95c.jpg"></article>]]></description>
-            <link>undefinedfloat-like-a-butterfly-and-sting-like-a-bee/index.html</link>
+            <link>https://thegrid.ai/unsheathed_sword/float-like-a-butterfly-and-sting-like-a-bee/index.html</link>
             <guid isPermaLink="false">858be614-c2ca-40b5-b09c-7fa0678313c6</guid>
             <pubDate>Mon, 14 Mar 2016 03:34:07 GMT</pubDate>
         </item>
